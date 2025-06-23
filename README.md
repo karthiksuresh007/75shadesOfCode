@@ -28,23 +28,6 @@ This repo is my way of mastering **Data Structures & Algorithms** for FAANG-leve
 
 ---
 
-## 🧾 Progress Tracker
-
-| Category              | Total | Solved | Status   |
-|-----------------------|-------|--------|----------|
-| Arrays & Hashing      | 15    | 5      | 🔄 In Progress |
-| Two Pointers          | 8     | 4      | 🔄 In Progress |
-| Sliding Window        | 6     | 2      | 🔄 In Progress |
-| Stack                 | 7     | 3      | 🔄 In Progress |
-| Binary Search         | 7     | 1      | ⏳ Starting Soon |
-| Trees & Graphs        | 30    | 0      | 🔒 Locked |
-| Dynamic Programming   | 30    | 0      | 🔒 Locked |
-| ...                   | ...   | ...    | ...      |
-| **Total**             | 150   | 15     | 🟢 Grinding |
-
-> ✔️ *This table is updated weekly as I progress.*
-
----
 
 ## 🧠 Why This Repo?
 
