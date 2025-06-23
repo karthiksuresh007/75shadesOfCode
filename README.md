@@ -23,11 +23,6 @@ This repo is my way of mastering **Data Structures & Algorithms** for FAANG-leve
 
 ---
 
-## 📁 Folder Structure
-
-
----
-
 
 ## 🧠 Why This Repo?
 
