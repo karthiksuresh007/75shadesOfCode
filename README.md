@@ -78,3 +78,15 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 ---
 
 > 🧠 *“Consistency beats talent when talent doesn’t show up.” — Keep grinding!*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
