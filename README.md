@@ -97,4 +97,12 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
