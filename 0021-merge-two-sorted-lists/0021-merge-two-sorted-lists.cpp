@@ -39,3 +39,17 @@ public:
     }
     
 };
+
+
+// ✅ Problem: Merge Two Sorted Lists (Leetcode #21)
+// 🔗 Link: https://leetcode.com/problems/merge-two-sorted-lists/
+// 📌 Topic: Linked List, Two Pointers
+// 👨‍💻 Approach:
+// 1. Create a dummy node to simplify the result list construction
+// 2. Use two pointers (t1 and t2) to traverse both input lists
+// 3. At each step, attach the smaller value node to the merged list
+// 4. Move the pointer of the list from which the node was taken
+// 5. After the loop, attach the remaining nodes from either list
+// 6. Return dummy->next as the head of the merged list
+// ⏱️ Time: O(n + m), Space: O(1)
+
