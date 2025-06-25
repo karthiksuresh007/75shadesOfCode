@@ -63,6 +63,7 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,8 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
