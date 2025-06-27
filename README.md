@@ -94,4 +94,20 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0066-plus-one) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
