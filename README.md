@@ -94,6 +94,7 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
@@ -110,4 +111,12 @@ Reach me on [Twitter](https://twitter.com/kartGeek) / [LinkedIn](https://www.lin
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karthiksuresh007/neet150-dsa-log/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
